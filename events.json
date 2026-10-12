@@ -1,0 +1,20 @@
+[
+  {
+    "repository": "octocat/Hello-World",
+    "description": "My first repository on GitHub!",
+    "language": "Markdown",
+    "starred_at": "2024-04-15"
+  },
+  {
+    "repository": "torvalds/linux",
+    "description": "Linux kernel source tree",
+    "language": "C",
+    "starred_at": "2024-03-02"
+  },
+  {
+    "repository": "microsoft/vscode",
+    "description": "Visual Studio Code",
+    "language": "TypeScript",
+    "starred_at": "2024-01-20"
+  }
+]
